@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<rss version="2.0">
 	<channel>
 		<link>https://evan-brass.github.io/audio-cast/</link>
 		<language>en-us</language>
@@ -11,23 +11,9 @@
 			<title>Silhouette</title>
 			<link>https://evan-brass.github.io/audio-cast/</link>
 		</image>
-		<itunes:owner>
-			<itunes:name>Your Name</itunes:name>
-			<itunes:email>your@email.com</itunes:email>
-		</itunes:owner>
-		<itunes:category text="Arts">
-			<itunes:category text="Books" />
-		</itunes:category>
-		<itunes:keywords>audiobooks, news, stuff</itunes:keywords>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="https://evan-brass.github.io/audio-cast/logo.jpg" />
-		<atom:link href="https://evan-brass.github.io/audio-cast/feed.xml" rel="self" type="application/rss+xml" />
 		<pubDate>Thu, 06 Feb 2020 00:00:00 PST</pubDate>
 		<title>Audio from Central Oregon</title>
-		<itunes:author>Evan Brass</itunes:author>
 		<description>Reading books, maybe the news, maybe other stuff.</description>
-		<itunes:summary>Reading books, maybe the news, maybe other stuff.</itunes:summary>
-		<itunes:subtitle>Books, News, and Stuff</itunes:subtitle>
 		<lastBuildDate>Thu, 06 Feb 2020 00:00:00 PST</lastBuildDate>
 		<!-- Sample Episode
 		<item>
@@ -45,12 +31,9 @@
 		<item>
 			<title>1. David Copperfield - Chapter 22</title>
 			<description>Some Old Scenes, and Some New People</description>
-			<itunes:summary>Some Old Scenes, and Some New People</itunes:summary>
-			<itunes:subtitle>Some Old Scenes, and Some New People</itunes:subtitle>
 			<enclosure url="https://evan-brass.github.io/audio-cast/episodes/david-copperfield/chapter-22.aac" type="audio/aac" length="52069514" />
 			<guid>https://evan-brass.github.io/audio-cast/episodes/david-copperfield/chapter-22.aac</guid>
-			<itunes:duration></itunes:duration>
-			<pubDate></pubDate>
+			<pubDate>Thu, 06 Feb 2020 00:00:00 PST</pubDate>
 		</item>
 	</channel>
 </rss>
