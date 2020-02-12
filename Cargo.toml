@@ -1,0 +1,10 @@
+[package]
+name = "audio-cast"
+version = "0.1.0"
+authors = ["brackish <evan-brass@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+csv = "1.1"
+chrono = { version = "0.4", features = ["serde"] }
+serde = { version = "1", features = ["derive"] }

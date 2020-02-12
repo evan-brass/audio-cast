@@ -1,39 +1,484 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 		<link>https://evan-brass.github.io/audio-cast/</link>
 		<language>en-us</language>
-		<copyright>&#xA9;2020</copyright>
-		<webMaster>evan-brass@protonmail.com (Evan Brass)</webMaster>
-		<managingEditor>evan-brass@protonmail.com (Evan Brass)</managingEditor>
+		<copyright>(Mostly) Evan Brass copyright 2020</copyright>
 		<image>
 			<url>https://evan-brass.github.io/audio-cast/logo.jpg</url>
 			<title>Silhouette</title>
 			<link>https://evan-brass.github.io/audio-cast/</link>
 		</image>
-		<pubDate>Thu, 06 Feb 2020 00:00:00 PST</pubDate>
-		<title>Audio from Central Oregon</title>
+		<pubDate>Sun, 17 Jun 2018 00:00:00 -0700</pubDate>
+		<title>Silhouette</title>
 		<description>Reading books, maybe the news, maybe other stuff.</description>
-		<lastBuildDate>Thu, 06 Feb 2020 00:00:00 PST</lastBuildDate>
-		<!-- Sample Episode
+		<lastBuildDate>Tue, 11 Feb 2020 16:55:22 -0800</lastBuildDate>
+        <atom:link href="https://evan-brass.github.io/audio-cast/feed.xml" rel="self" type="application/rss+xml"/>
+        <itunes:author>(Mostly) Evan Brass</itunes:author>
+        <itunes:summary>
+            Reading books, maybe the news, maybe other stuff.
+        </itunes:summary>
+        <itunes:subtitle>Books and stuff.</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>(Mostly) Evan Brass</itunes:name>
+            <itunes:email>brassevan@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:keywords>
+            awkward, books,
+        </itunes:keywords>
+        <itunes:category text="Technology"/>
+		
 		<item>
-			<title>{{title}}</title>
-			<description>{{description}}</description>
-			<itunes:summary>{{description}}</itunes:summary>
-			<itunes:subtitle>{{short-description}}</itunes:subtitle>
-			<itunesu:category itunesu:code="112" />
-			<enclosure url="https://evan-brass.github.io/audio-cast/episodes/david-copperfield/FILE.EXT" type="audio/mpeg" length="1" />
-			<guid>https://evan-brass.github.io/audio-cast/episodes/david-copperfield/FILE.EXT</guid>
-			<itunes:duration>H:MM:SS</itunes:duration>
-			<pubDate>Thu, 02 Feb 2012 00:00:00 EST</pubDate>
-		</item>
-		-->
-		<item>
-			<title>1. David Copperfield - Chapter 22</title>
+			<link>https://ipfs.io/ipfs/QmUepAi2cu25whbrpCDUmweVP7VSCBg8GiJCKkT7V6c4EK?filename=Chapter-22.aac</link>
+			<title>David Copperfield – Chapter 22</title>
 			<description>Some Old Scenes, and Some New People</description>
-			<enclosure url="https://evan-brass.github.io/audio-cast/episodes/david-copperfield/chapter-22.aac" type="audio/aac" length="52069514" />
-			<guid>https://evan-brass.github.io/audio-cast/episodes/david-copperfield/chapter-22.aac</guid>
-			<pubDate>Thu, 06 Feb 2020 00:00:00 PST</pubDate>
+			<itunes:summary>Some Old Scenes, and Some New People</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmUepAi2cu25whbrpCDUmweVP7VSCBg8GiJCKkT7V6c4EK?filename=Chapter-22.aac" type="audio/aac" length="52069514" />
+			<guid>https://ipfs.io/ipfs/QmUepAi2cu25whbrpCDUmweVP7VSCBg8GiJCKkT7V6c4EK?filename=Chapter-22.aac</guid>
+			<itunes:duration>00:52:58</itunes:duration>
+			<pubDate>Sun, 17 Jun 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
 		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmTAHw9Zy9QBJR6ARhHQm8xEr6rgQqLYHu2GM7qfR8WTgf?filename=Chapter-23.aac</link>
+			<title>David Copperfield – Chapter 23</title>
+			<description>I Corroborate Mr. Dick, and Choose a Profession</description>
+			<itunes:summary>I Corroborate Mr. Dick, and Choose a Profession</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmTAHw9Zy9QBJR6ARhHQm8xEr6rgQqLYHu2GM7qfR8WTgf?filename=Chapter-23.aac" type="audio/aac" length="187998764" />
+			<guid>https://ipfs.io/ipfs/QmTAHw9Zy9QBJR6ARhHQm8xEr6rgQqLYHu2GM7qfR8WTgf?filename=Chapter-23.aac</guid>
+			<itunes:duration>00:35:31</itunes:duration>
+			<pubDate>Wed, 20 Jun 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmTHZsB597aq7FSh6zB1L7C1bv9K2APrfaRf9MoHTh7c5a?filename=Chapter-24.m4a</link>
+			<title>David Copperfield – Chapter 24</title>
+			<description>My First Dissipation</description>
+			<itunes:summary>My First Dissipation</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmTHZsB597aq7FSh6zB1L7C1bv9K2APrfaRf9MoHTh7c5a?filename=Chapter-24.m4a" type="audio/mp4a-latm " length="31512963" />
+			<guid>https://ipfs.io/ipfs/QmTHZsB597aq7FSh6zB1L7C1bv9K2APrfaRf9MoHTh7c5a?filename=Chapter-24.m4a</guid>
+			<itunes:duration>00:18:23</itunes:duration>
+			<pubDate>Fri, 22 Jun 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmPxtVk1wtKe8aiy2jVAqpQcZwmfUvEEk8mFqGrJeD58zy?filename=Chapter-25.wav</link>
+			<title>David Copperfield – Chapter 25</title>
+			<description>Good and Bad Angels</description>
+			<itunes:summary>Good and Bad Angels</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmPxtVk1wtKe8aiy2jVAqpQcZwmfUvEEk8mFqGrJeD58zy?filename=Chapter-25.wav" type="audio/x-wav" length="272937772" />
+			<guid>https://ipfs.io/ipfs/QmPxtVk1wtKe8aiy2jVAqpQcZwmfUvEEk8mFqGrJeD58zy?filename=Chapter-25.wav</guid>
+			<itunes:duration>00:51:34</itunes:duration>
+			<pubDate>Fri, 29 Jun 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmNRbLBo993db2bGAiqDEoM5qFR6fY42DCyf4XDXEYQgGY?filename=Chapter-26.aac</link>
+			<title>David Copperfield – Chapter 26</title>
+			<description>I Fall into Captivity</description>
+			<itunes:summary>I Fall into Captivity</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmNRbLBo993db2bGAiqDEoM5qFR6fY42DCyf4XDXEYQgGY?filename=Chapter-26.aac" type="audio/aac" length="226252588" />
+			<guid>https://ipfs.io/ipfs/QmNRbLBo993db2bGAiqDEoM5qFR6fY42DCyf4XDXEYQgGY?filename=Chapter-26.aac</guid>
+			<itunes:duration>00:42:45</itunes:duration>
+			<pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmZxvRJMkPn9ZeLDek7EAx6VvZJNPc2iLpEBDWBLYbhknm?filename=Chapter-27.aac</link>
+			<title>David Copperfield – Chapter 27</title>
+			<description>Tommy Traddles</description>
+			<itunes:summary>Tommy Traddles</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmZxvRJMkPn9ZeLDek7EAx6VvZJNPc2iLpEBDWBLYbhknm?filename=Chapter-27.aac" type="audio/aac" length="149701932" />
+			<guid>https://ipfs.io/ipfs/QmZxvRJMkPn9ZeLDek7EAx6VvZJNPc2iLpEBDWBLYbhknm?filename=Chapter-27.aac</guid>
+			<itunes:duration>00:28:17</itunes:duration>
+			<pubDate>Tue, 03 Jul 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmVePJf8vdNEHLkhR6uBmPDA2HJWuqcpYCFdbaXtofpfDT?filename=Chapter-28.m4a</link>
+			<title>David Copperfield – Chapter 28</title>
+			<description>Mr. Micawber’s Gauntlet</description>
+			<itunes:summary>Mr. Micawber’s Gauntlet</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmVePJf8vdNEHLkhR6uBmPDA2HJWuqcpYCFdbaXtofpfDT?filename=Chapter-28.m4a" type="audio/mp4a-latm " length="20983096" />
+			<guid>https://ipfs.io/ipfs/QmVePJf8vdNEHLkhR6uBmPDA2HJWuqcpYCFdbaXtofpfDT?filename=Chapter-28.m4a</guid>
+			<itunes:duration>00:42:06</itunes:duration>
+			<pubDate>Mon, 09 Jul 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmZcLK4bXMUTdFEkhXTuwsj2Lah1xVTcXcPS2iX2nnz6oL?filename=Chapter-29.aac</link>
+			<title>David Copperfield – Chapter 29</title>
+			<description>I Visit Steerforth at His Home, Again</description>
+			<itunes:summary>I Visit Steerforth at His Home, Again</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmZcLK4bXMUTdFEkhXTuwsj2Lah1xVTcXcPS2iX2nnz6oL?filename=Chapter-29.aac" type="audio/aac" length="120096300" />
+			<guid>https://ipfs.io/ipfs/QmZcLK4bXMUTdFEkhXTuwsj2Lah1xVTcXcPS2iX2nnz6oL?filename=Chapter-29.aac</guid>
+			<itunes:duration>00:22:41</itunes:duration>
+			<pubDate>Wed, 11 Jul 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmYCFgT4FAXakQPHVDvjZevRxDcDSKtujz9J4Lmz4ozF55?filename=Chapter-30.wav</link>
+			<title>David Copperfield – Chapter 30</title>
+			<description>A Loss</description>
+			<itunes:summary>A Loss</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmYCFgT4FAXakQPHVDvjZevRxDcDSKtujz9J4Lmz4ozF55?filename=Chapter-30.wav" type="audio/x-wav" length="277159724" />
+			<guid>https://ipfs.io/ipfs/QmYCFgT4FAXakQPHVDvjZevRxDcDSKtujz9J4Lmz4ozF55?filename=Chapter-30.wav</guid>
+			<itunes:duration>00:52:22</itunes:duration>
+			<pubDate>Sat, 14 Jul 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmdoQGT3sYGnxyiN1oaUDup9JwaT1jQKkXeHnwVTyEuZgL?filename=Chapter-32.aac</link>
+			<title>David Copperfield – Chapter 32</title>
+			<description>The Beginning of a Long Journey</description>
+			<itunes:summary>The Beginning of a Long Journey</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmdoQGT3sYGnxyiN1oaUDup9JwaT1jQKkXeHnwVTyEuZgL?filename=Chapter-32.aac" type="audio/aac" length="248337196" />
+			<guid>https://ipfs.io/ipfs/QmdoQGT3sYGnxyiN1oaUDup9JwaT1jQKkXeHnwVTyEuZgL?filename=Chapter-32.aac</guid>
+			<itunes:duration>00:46:55</itunes:duration>
+			<pubDate>Tue, 17 Jul 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmXudUFtWbdY1DWv4jVoqwNCwJQoTJXX2zzmrMfT2YrfGt?filename=Chapter-33.m4a</link>
+			<title>David Copperfield – Chapter 33</title>
+			<description>Blissful</description>
+			<itunes:summary>Blissful</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmXudUFtWbdY1DWv4jVoqwNCwJQoTJXX2zzmrMfT2YrfGt?filename=Chapter-33.m4a" type="audio/mp4a-latm " length="18545518" />
+			<guid>https://ipfs.io/ipfs/QmXudUFtWbdY1DWv4jVoqwNCwJQoTJXX2zzmrMfT2YrfGt?filename=Chapter-33.m4a</guid>
+			<itunes:duration>00:37:16</itunes:duration>
+			<pubDate>Sat, 21 Jul 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/Qmbkvr7JhihBk7PCBnL2zGHiQgCrgrG8Bh3Dgy3wmuHMzT?filename=Chapter-34.aac</link>
+			<title>David Copperfield – Chapter 34</title>
+			<description>My Aunt Astonishes Me</description>
+			<itunes:summary>My Aunt Astonishes Me</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/Qmbkvr7JhihBk7PCBnL2zGHiQgCrgrG8Bh3Dgy3wmuHMzT?filename=Chapter-34.aac" type="audio/aac" length="127753516" />
+			<guid>https://ipfs.io/ipfs/Qmbkvr7JhihBk7PCBnL2zGHiQgCrgrG8Bh3Dgy3wmuHMzT?filename=Chapter-34.aac</guid>
+			<itunes:duration>00:24:08</itunes:duration>
+			<pubDate>Wed, 25 Jul 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmRov2tmBryPNUY8Hgqk1H1jrtrWgavine4RzeSkXA7bbf?filename=Chapter-35.aac</link>
+			<title>David Copperfield – Chapter 35</title>
+			<description>Depression</description>
+			<itunes:summary>Depression</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmRov2tmBryPNUY8Hgqk1H1jrtrWgavine4RzeSkXA7bbf?filename=Chapter-35.aac" type="audio/aac" length="281003564" />
+			<guid>https://ipfs.io/ipfs/QmRov2tmBryPNUY8Hgqk1H1jrtrWgavine4RzeSkXA7bbf?filename=Chapter-35.aac</guid>
+			<itunes:duration>00:53:05</itunes:duration>
+			<pubDate>Sun, 29 Jul 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmbQULGgoJHsSw35FHuTV7f9nUyygcqBXumJQJCQFZS2gm?filename=Chapter-36.wav</link>
+			<title>David Copperfield – Chapter 36</title>
+			<description>Enthusiasm</description>
+			<itunes:summary>Enthusiasm</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmbQULGgoJHsSw35FHuTV7f9nUyygcqBXumJQJCQFZS2gm?filename=Chapter-36.wav" type="audio/x-wav" length="233789740" />
+			<guid>https://ipfs.io/ipfs/QmbQULGgoJHsSw35FHuTV7f9nUyygcqBXumJQJCQFZS2gm?filename=Chapter-36.wav</guid>
+			<itunes:duration>00:40:10</itunes:duration>
+			<pubDate>Tue, 31 Jul 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmSDkX9keVVPunFkp4buPdQ9QYidMNqtmcQxTvRhqWqS4i?filename=Chapter-37.aac</link>
+			<title>David Copperfield – Chapter 37</title>
+			<description>A Little Cold Water</description>
+			<itunes:summary>A Little Cold Water</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmSDkX9keVVPunFkp4buPdQ9QYidMNqtmcQxTvRhqWqS4i?filename=Chapter-37.aac" type="audio/aac" length="129369900" />
+			<guid>https://ipfs.io/ipfs/QmSDkX9keVVPunFkp4buPdQ9QYidMNqtmcQxTvRhqWqS4i?filename=Chapter-37.aac</guid>
+			<itunes:duration>00:24:26</itunes:duration>
+			<pubDate>Thu, 09 Aug 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmXfLk1xxWrGjpiKjD6cT7tzTBDY5BjeP1LtuopHUwGzzc?filename=Chapter-39.wav</link>
+			<title>David Copperfield – Chapter 39</title>
+			<description>Wickfield and Heep</description>
+			<itunes:summary>Wickfield and Heep</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmXfLk1xxWrGjpiKjD6cT7tzTBDY5BjeP1LtuopHUwGzzc?filename=Chapter-39.wav" type="audio/x-wav" length="271194156" />
+			<guid>https://ipfs.io/ipfs/QmXfLk1xxWrGjpiKjD6cT7tzTBDY5BjeP1LtuopHUwGzzc?filename=Chapter-39.wav</guid>
+			<itunes:duration>00:51:14</itunes:duration>
+			<pubDate>Tue, 28 Aug 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmVTYz5SdWDS1KStwQ3HefqCUugzCVUBMNAomS5ruTueRR?filename=Chapter-40.wav</link>
+			<title>David Copperfield – Chapter 40</title>
+			<description>The Wanderer</description>
+			<itunes:summary>The Wanderer</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmVTYz5SdWDS1KStwQ3HefqCUugzCVUBMNAomS5ruTueRR?filename=Chapter-40.wav" type="audio/x-wav" length="125183788" />
+			<guid>https://ipfs.io/ipfs/QmVTYz5SdWDS1KStwQ3HefqCUugzCVUBMNAomS5ruTueRR?filename=Chapter-40.wav</guid>
+			<itunes:duration>00:23:39</itunes:duration>
+			<pubDate>Tue, 04 Sep 2018 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/Qmd8PJhUQhFrgYmyFuySTfzeWwq6Y1e2LJ24Bs2VxsPFvH?filename=Chapter-42.aac</link>
+			<title>David Copperfield – Chapter 42</title>
+			<description>Mischief [Incomplete]</description>
+			<itunes:summary>Mischief [Incomplete]</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/Qmd8PJhUQhFrgYmyFuySTfzeWwq6Y1e2LJ24Bs2VxsPFvH?filename=Chapter-42.aac" type="audio/aac" length="33984617" />
+			<guid>https://ipfs.io/ipfs/Qmd8PJhUQhFrgYmyFuySTfzeWwq6Y1e2LJ24Bs2VxsPFvH?filename=Chapter-42.aac</guid>
+			<itunes:duration>00:34:32</itunes:duration>
+			<pubDate>Wed, 27 Mar 2019 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/Qme2EMUUqmszWqqzkGTFmSiYx3BneSswZT4dkHsavzbRKj?filename=Chapter-43.aac</link>
+			<title>David Copperfield – Chapter 43</title>
+			<description>Another Retrospect</description>
+			<itunes:summary>Another Retrospect</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/Qme2EMUUqmszWqqzkGTFmSiYx3BneSswZT4dkHsavzbRKj?filename=Chapter-43.aac" type="audio/aac" length="23520075" />
+			<guid>https://ipfs.io/ipfs/Qme2EMUUqmszWqqzkGTFmSiYx3BneSswZT4dkHsavzbRKj?filename=Chapter-43.aac</guid>
+			<itunes:duration>00:23:32</itunes:duration>
+			<pubDate>Wed, 27 Mar 2019 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmaAsJ8jQzJN7C9v6eyhQs9zT2tKNVDtH8QhkcmdbhKJY8?filename=Chapter-47.aac</link>
+			<title>David Copperfield – Chapter 47</title>
+			<description>Martha</description>
+			<itunes:summary>Martha</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmaAsJ8jQzJN7C9v6eyhQs9zT2tKNVDtH8QhkcmdbhKJY8?filename=Chapter-47.aac" type="audio/aac" length="25757511" />
+			<guid>https://ipfs.io/ipfs/QmaAsJ8jQzJN7C9v6eyhQs9zT2tKNVDtH8QhkcmdbhKJY8?filename=Chapter-47.aac</guid>
+			<itunes:duration>00:26:13</itunes:duration>
+			<pubDate>Tue, 02 Jul 2019 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmQMPTUi7hknn181wtQTw1c8mt4nz9LhsgdHTWJobjHA8A?filename=Chapter-48.aac</link>
+			<title>David Copperfield – Chapter 48</title>
+			<description>Domestic</description>
+			<itunes:summary>Domestic</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmQMPTUi7hknn181wtQTw1c8mt4nz9LhsgdHTWJobjHA8A?filename=Chapter-48.aac" type="audio/aac" length="26917661" />
+			<guid>https://ipfs.io/ipfs/QmQMPTUi7hknn181wtQTw1c8mt4nz9LhsgdHTWJobjHA8A?filename=Chapter-48.aac</guid>
+			<itunes:duration>00:27:26</itunes:duration>
+			<pubDate>Tue, 02 Jul 2019 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmPSES8VCzhHUFnuqA1LnhxQMYtNkLJ4zyCkAkNjs96FEe?filename=Chapter-49.aac</link>
+			<title>David Copperfield – Chapter 49</title>
+			<description>I am Involved in Mystery</description>
+			<itunes:summary>I am Involved in Mystery</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmPSES8VCzhHUFnuqA1LnhxQMYtNkLJ4zyCkAkNjs96FEe?filename=Chapter-49.aac" type="audio/aac" length="29821661" />
+			<guid>https://ipfs.io/ipfs/QmPSES8VCzhHUFnuqA1LnhxQMYtNkLJ4zyCkAkNjs96FEe?filename=Chapter-49.aac</guid>
+			<itunes:duration>00:30:09</itunes:duration>
+			<pubDate>Tue, 02 Jul 2019 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmbRp2JbRcqqkDpwiyQYgCiVNWAv5HYpdJdekrNJhrZzS3?filename=Chapter-50.aac</link>
+			<title>David Copperfield – Chapter 50</title>
+			<description>Mr. Peggotty’s Dream Comes True</description>
+			<itunes:summary>Mr. Peggotty’s Dream Comes True</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmbRp2JbRcqqkDpwiyQYgCiVNWAv5HYpdJdekrNJhrZzS3?filename=Chapter-50.aac" type="audio/aac" length="24055328" />
+			<guid>https://ipfs.io/ipfs/QmbRp2JbRcqqkDpwiyQYgCiVNWAv5HYpdJdekrNJhrZzS3?filename=Chapter-50.aac</guid>
+			<itunes:duration>00:24:31</itunes:duration>
+			<pubDate>Thu, 04 Jul 2019 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/Qme3u6EL91tR3MdvqM8yYJ54q8mmnBuxSzBF5pMVW8onfr?filename=Chapter-51.aac</link>
+			<title>David Copperfield – Chapter 51</title>
+			<description>The Beginning of a Longer Journey</description>
+			<itunes:summary>The Beginning of a Longer Journey</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/Qme3u6EL91tR3MdvqM8yYJ54q8mmnBuxSzBF5pMVW8onfr?filename=Chapter-51.aac" type="audio/aac" length="44707698" />
+			<guid>https://ipfs.io/ipfs/Qme3u6EL91tR3MdvqM8yYJ54q8mmnBuxSzBF5pMVW8onfr?filename=Chapter-51.aac</guid>
+			<itunes:duration>00:45:28</itunes:duration>
+			<pubDate>Thu, 04 Jul 2019 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmQagz92uyJwXVcRzUUUQYVJrxJo8dePVkeW9aQz9QXtJ2?filename=Chapter-52.aac</link>
+			<title>David Copperfield – Chapter 52</title>
+			<description>I Assist at an Explosion</description>
+			<itunes:summary>I Assist at an Explosion</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmQagz92uyJwXVcRzUUUQYVJrxJo8dePVkeW9aQz9QXtJ2?filename=Chapter-52.aac" type="audio/aac" length="59180002" />
+			<guid>https://ipfs.io/ipfs/QmQagz92uyJwXVcRzUUUQYVJrxJo8dePVkeW9aQz9QXtJ2?filename=Chapter-52.aac</guid>
+			<itunes:duration>01:00:18</itunes:duration>
+			<pubDate>Sat, 06 Jul 2019 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmdD1Zn3PAwEHZfZazH4ejC5W9pCgXzKqHGNP4PMW9jDxy?filename=Chapter-53.aac</link>
+			<title>David Copperfield – Chapter 53</title>
+			<description>Another Retrospect</description>
+			<itunes:summary>Another Retrospect</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmdD1Zn3PAwEHZfZazH4ejC5W9pCgXzKqHGNP4PMW9jDxy?filename=Chapter-53.aac" type="audio/aac" length="11903383" />
+			<guid>https://ipfs.io/ipfs/QmdD1Zn3PAwEHZfZazH4ejC5W9pCgXzKqHGNP4PMW9jDxy?filename=Chapter-53.aac</guid>
+			<itunes:duration>00:12:08</itunes:duration>
+			<pubDate>Sat, 06 Jul 2019 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmVdQSRkHC2NwmvCq6NS1PAy1VynSC8YpJxtDqteGNbrTa?filename=Chapter-54.aac</link>
+			<title>David Copperfield – Chapter 54</title>
+			<description>Mr. Micawber’s Transactions</description>
+			<itunes:summary>Mr. Micawber’s Transactions</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmVdQSRkHC2NwmvCq6NS1PAy1VynSC8YpJxtDqteGNbrTa?filename=Chapter-54.aac" type="audio/aac" length="37692209" />
+			<guid>https://ipfs.io/ipfs/QmVdQSRkHC2NwmvCq6NS1PAy1VynSC8YpJxtDqteGNbrTa?filename=Chapter-54.aac</guid>
+			<itunes:duration>00:38:25</itunes:duration>
+			<pubDate>Sat, 06 Jul 2019 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmV4M1pDfo9kRkkmsMaATuyUbEg1onpfXbHvx1V6NEbNYX?filename=Chapter-55.m4a</link>
+			<title>David Copperfield – Chapter 55</title>
+			<description>Tempest</description>
+			<itunes:summary>Tempest</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmV4M1pDfo9kRkkmsMaATuyUbEg1onpfXbHvx1V6NEbNYX?filename=Chapter-55.m4a" type="audio/mp4a-latm " length="13898002" />
+			<guid>https://ipfs.io/ipfs/QmV4M1pDfo9kRkkmsMaATuyUbEg1onpfXbHvx1V6NEbNYX?filename=Chapter-55.m4a</guid>
+			<itunes:duration>00:27:48</itunes:duration>
+			<pubDate>Mon, 08 Jul 2019 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmP7CHLqD4RnYQKDwsygu7qoK9ZPR4XVAetbD8gB2Ej6Fe?filename=Chapter-56.aac</link>
+			<title>David Copperfield – Chapter 56</title>
+			<description>The New Wound, and the Old</description>
+			<itunes:summary>The New Wound, and the Old</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmP7CHLqD4RnYQKDwsygu7qoK9ZPR4XVAetbD8gB2Ej6Fe?filename=Chapter-56.aac" type="audio/aac" length="16120790" />
+			<guid>https://ipfs.io/ipfs/QmP7CHLqD4RnYQKDwsygu7qoK9ZPR4XVAetbD8gB2Ej6Fe?filename=Chapter-56.aac</guid>
+			<itunes:duration>00:16:24</itunes:duration>
+			<pubDate>Wed, 10 Jul 2019 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
+		<item>
+			<link>https://ipfs.io/ipfs/QmQEdJJH475z6w5TjRdkF5psAsteqMP3NjiyXcPJGVHB1v?filename=Chapter-57.aac</link>
+			<title>David Copperfield – Chapter 57</title>
+			<description>The Emigrants</description>
+			<itunes:summary>The Emigrants</itunes:summary>
+			<enclosure url="https://ipfs.io/ipfs/QmQEdJJH475z6w5TjRdkF5psAsteqMP3NjiyXcPJGVHB1v?filename=Chapter-57.aac" type="audio/aac" length="28878782" />
+			<guid>https://ipfs.io/ipfs/QmQEdJJH475z6w5TjRdkF5psAsteqMP3NjiyXcPJGVHB1v?filename=Chapter-57.aac</guid>
+			<itunes:duration>00:29:25</itunes:duration>
+			<pubDate>Wed, 10 Jul 2019 00:00:00 -0700</pubDate>
+			<itunes:keywords>
+				
+			</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		
 	</channel>
 </rss>
+	
